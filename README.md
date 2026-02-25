@@ -1,3 +1,3 @@
 ## React Todo List
 
-This projest is a parctice for react.
+This projest is for parcticing react.
